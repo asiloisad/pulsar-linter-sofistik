@@ -1,0 +1,26 @@
+{
+  "name": "linter-sofistik",
+  "linter-package": true,
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Linting SOFiSTiK >=2023",
+  "activationEvents": [],
+  "homepage": "https://github.com/bacadra/atom-linter-sofistik",
+  "url": "https://github.com/bacadra/atom-linter-sofistik",
+  "repository": "https://github.com/bacadra/atom-linter-sofistik",
+  "keywords": [
+    "bacadra",
+    "linter",
+    "sofistik"
+  ],
+  "consumedServices": {
+    "linter-indie": {
+      "versions": {
+        "2.0.0": "consumeIndie"
+      }
+    }
+  },
+  "activationHooks": [
+    "language-sofistik:grammar-used"
+  ]
+}
