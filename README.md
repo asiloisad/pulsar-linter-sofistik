@@ -39,7 +39,7 @@ or directly [linter-sofistik](https://web.pulsar-edit.dev/packages/linter-sofist
 
 **Support versions of SOFiSTiK are 2023 and higher. English only.**
 
-# Contributing
+# Contributing [🍺](https://www.buymeacoffee.com/asiloisad)
 
 If you have ideas on how to improve the package, see bugs or want to support new features - feel free to share it via GitHub.
 
