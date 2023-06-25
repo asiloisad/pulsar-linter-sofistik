@@ -2,7 +2,7 @@
   "name": "linter-sofistik",
   "linter-package": true,
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Linting SOFiSTiK >=2023",
   "activationEvents": [],
   "homepage": "https://github.com/bacadra/atom-linter-sofistik",
