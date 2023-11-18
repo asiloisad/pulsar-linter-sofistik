@@ -21,7 +21,7 @@ Show errors produced by WPS by keypress `F12`.
 
 To install `linter-sofistik` search for [linter-sofistik](https://web.pulsar-edit.dev/packages/linter-sofistik) in the Install pane of the Pulsar settings or run `ppm install linter-sofistik`.
 
-Alternatively, run `ppm install bacadra/pulsar-linter-sofistik` to install a package directly from Github repository.
+Alternatively, you can run `ppm install bacadra/pulsar-linter-sofistik` to install a package directly from the Github repository.
 
 ## Compatibility
 
