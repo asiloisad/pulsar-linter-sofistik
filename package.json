@@ -3,7 +3,7 @@
   "linter-package": true,
   "main": "./lib/main",
   "version": "0.0.3",
-  "description": "Linting SOFiSTiK >=2023",
+  "description": "Read and list errors produced by SOFiSTiK",
   "activationEvents": [],
   "homepage": "https://github.com/bacadra/pulsar-linter-sofistik",
   "url": "https://github.com/bacadra/pulsar-linter-sofistik",
@@ -15,7 +15,7 @@
   ],
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
-  },  
+  },
   "consumedServices": {
     "linter-indie": {
       "versions": {

@@ -1,6 +1,6 @@
 # linter-sofisitk
 
-Show errors produced by WPS by keypress `F12`.
+Read and list errors produced by SOFiSTiK. . Manuall trigger `F12` is required. Package used [linter](https://github.com/steelbrain/linter) top-level API to visualize errors and other types of messages with ease. A grammar supply package is required, e.g. [language-sofistik](https://github.com/bacadra/pulsar-language-sofistik).
 
 ## Installation
 
@@ -8,8 +8,8 @@ To install `linter-sofistik` search for [linter-sofistik](https://web.pulsar-edi
 
 ## Compatibility
 
-**Support versions of SOFiSTiK are 2023 and higher. English only.**
+Support versions of SOFiSTiK are 2025, 2024 and 2023. English only.
 
 # Contributing
 
-If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
