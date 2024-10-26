@@ -2,7 +2,7 @@
   "name": "linter-sofistik",
   "linter-package": true,
   "main": "./lib/main",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Read and list errors produced by SOFiSTiK",
   "activationEvents": [],
   "homepage": "https://github.com/bacadra/pulsar-linter-sofistik",
