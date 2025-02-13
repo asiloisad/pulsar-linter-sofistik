@@ -3,7 +3,6 @@
   "description": "Read and list errors produced by SOFiSTiK",
   "repository": "https://github.com/bacadra/pulsar-linter-sofistik",
   "keywords": [
-    "bacadra",
     "linter",
     "sofistik"
   ],
