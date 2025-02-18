@@ -1,7 +1,7 @@
 {
   "name": "linter-sofistik",
   "description": "Read and list errors produced by SOFiSTiK",
-  "repository": "https://github.com/bacadra/pulsar-linter-sofistik",
+  "repository": "https://github.com/asiloisad/pulsar-linter-sofistik",
   "keywords": [
     "linter",
     "sofistik"
