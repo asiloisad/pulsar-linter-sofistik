@@ -21,5 +21,14 @@
   "activationHooks": [
     "language-sofistik:grammar-used"
   ],
-  "linter-package": true
+  "linter-package": true,
+  "configSchema": {
+    "debugMode": {
+      "order": 1,
+      "title": "Debug mode",
+      "description": "Show debug informations in program console.",
+      "type": "boolean",
+      "default": false
+    }
+  }
 }

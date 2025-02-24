@@ -4,7 +4,7 @@ Read and list errors produced by SOFiSTiK. . Manuall trigger `F12` is required. 
 
 ## Installation
 
-To install `linter-sofistik` search for [linter-sofistik](https://web.pulsar-edit.dev/packages/linter-sofistik) in the Install pane of the Pulsar settings or run `ppm install linter-sofistik`. Alternatively, you can run `ppm install asiloisad/pulsar-linter-sofistik` to install a package directly from the Github repository.
+To install `linter-sofistik` search for [linter-sofistik](https://web.pulsar-edit.dev/packages/linter-sofistik) in the Install pane of the Pulsar settings or run `ppm install linter-sofistik`. Alternatively, you can run `ppm install asiloisad/pulsar-linter-sofistik` to install a package directly from the GitHub repository.
 
 ## Compatibility
 
