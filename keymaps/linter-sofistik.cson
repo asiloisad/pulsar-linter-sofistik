@@ -1,2 +1,0 @@
-'atom-text-editor[data-grammar="source sofistik"]':
-  'f12': 'linter-SOFiSTiK:lint'
