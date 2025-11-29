@@ -6,10 +6,6 @@ Read and list errors produced by SOFiSTiK. Manuall trigger is required. Package 
 
 To install `linter-sofistik` search for [linter-sofistik](https://web.pulsar-edit.dev/packages/linter-sofistik) in the Install pane of the Pulsar settings or run `ppm install linter-sofistik`. Alternatively, you can run `ppm install asiloisad/pulsar-linter-sofistik` to install a package directly from the GitHub repository.
 
-## Compatibility
-
-Support versions of SOFiSTiK are 2026, 2025, 2024, 2023, 2022, 2020 and 2018. English only.
-
 # Contributing
 
 Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
