@@ -26,7 +26,7 @@
     },
     "sofistik.keywords": {
       "versions": {
-        "1.0.0": "consumeKeywordsService"
+        "2.0.0": "consumeKeywordsService"
       }
     }
   }
