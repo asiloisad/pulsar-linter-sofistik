@@ -1,6 +1,6 @@
 {
   "name": "linter-sofistik",
-  "description": "Read and list errors produced by SOFiSTiK",
+  "description": "Display SOFiSTiK compilation errors in Pulsar",
   "repository": "https://github.com/asiloisad/pulsar-linter-sofistik",
   "keywords": [
     "linter",
