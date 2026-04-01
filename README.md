@@ -1,6 +1,6 @@
 # linter-sofistik
 
-Display SOFiSTiK compilation errors in Pulsar. Reads error messages from SOFiSTiK output and shows them using the linter interface.
+Display SOFiSTiK compilation errors. Reads error messages from SOFiSTiK output and shows them using the linter interface.
 
 ## Features
 
